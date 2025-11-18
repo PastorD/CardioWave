@@ -1,0 +1,3 @@
+[submodule "CardioWaveGUI"]
+	path = CardioWaveGUI
+	url = https://github.com/zealseeker/CardioWaveGUI
